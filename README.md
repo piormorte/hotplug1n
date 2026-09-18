@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piormorte)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-martins-581500431/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/.piormorte)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/.hotplug1n)
 
 </div>
 
@@ -228,7 +228,7 @@ LEARNING
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri%20Martins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-martins-581500431/)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-.piormorte-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/.piormorte)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-.hotplug1n-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/.hotplug1n)
 
 [![GitHub](https://img.shields.io/badge/GitHub-piormorte-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piormorte)
 
