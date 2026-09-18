@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./header.svg" width="700">
+  <img src="./header.svg " width="700">
 </p>
 
 ### `Cybersecurity` · `Blue Team` · `SOC` · `AppSec` · `Linux` · `Networking`
