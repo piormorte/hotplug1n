@@ -10,9 +10,9 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hotplug1n)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piormorte)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-martins-581500431/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/.hotplug1n)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/.piormorte)
 
 </div>
 
@@ -24,8 +24,8 @@
 
 <div align="center">
 
-[![Studies](https://img.shields.io/badge/📚%20Studies-Cybersecurity-0A66C2?style=for-the-badge)](https://github.com/hotplug1n/studies)
-[![Mini SOC Lab](https://img.shields.io/badge/🛡️%20Mini%20SOC%20Lab-Project-111111?style=for-the-badge)](https://github.com/hotplug1n/mini-soc-lab)
+[![Studies](https://img.shields.io/badge/📚%20Studies-Cybersecurity-0A66C2?style=for-the-badge)](https://github.com/piormorte/studies)
+[![Mini SOC Lab](https://img.shields.io/badge/🛡️%20Mini%20SOC%20Lab-Project-111111?style=for-the-badge)](https://github.com/piormorte/mini-soc-lab)
 
 </div>
 
@@ -39,7 +39,7 @@ Blue Team · SOC · Splunk · OSINT
 Git Security · TryHackMe
 ```
 
-🔗 **[Acessar meus Studies →](https://github.com/hotplug1n/studies)**
+🔗 **[Acessar meus Studies →](https://github.com/piormorte/studies)**
 
 ---
 
@@ -146,7 +146,7 @@ Projeto defensivo em Python que analisa eventos de autenticação e gera alertas
 
 **Stack:** Python · Linux · Blue Team · Log Analysis
 
-🔗 **[Ver projeto →](https://github.com/hotplug1n/mini-soc-lab)**
+🔗 **[Ver projeto →](https://github.com/piormorte/mini-soc-lab)**
 
 ---
 
@@ -166,7 +166,7 @@ Splunk
 Digital Forensics
 ```
 
-🔗 **[Ver documentação das rooms →](https://github.com/hotplug1n/studies/tree/main/tryhackme)**
+🔗 **[Ver documentação das rooms →](https://github.com/piormorte/studies/tree/main/tryhackme)**
 
 ---
 
@@ -187,7 +187,7 @@ Digital Forensics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hotplug1n&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piormorte&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -207,7 +207,7 @@ Digital Forensics
 
 ```bash
 $ whoami
-hotplug1n
+piormorte
 
 $ cat focus.txt
 
@@ -228,9 +228,9 @@ LEARNING
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri%20Martins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-martins-581500431/)
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-.hotplug1n-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/.hotplug1n)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-.piormorte-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/.piormorte)
 
-[![GitHub](https://img.shields.io/badge/GitHub-hotplug1n-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hotplug1n)
+[![GitHub](https://img.shields.io/badge/GitHub-piormorte-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piormorte)
 
 </div>
 
